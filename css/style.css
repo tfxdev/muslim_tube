@@ -473,23 +473,21 @@ footer li a:hover{
 select.error{
 	padding:0;
 }
-.video{
-	float:left;
-	width:595px;
-	height:300px;
-	margin:0 18px 18px 0;
+.video {
+    width: 100%;
+    height: auto;
+    margin: 0 18px 18px 0;
 }
 .share{
-	float:left;
+	
 }
-.share ul{
-	margin:0;
-	padding:0;
-	list-style:none;
+.share ul {
+    list-style: none;
+    display: flex;
+    padding: 0;
 }
 .share li{
-	margin:0;
-	padding:5px 0 0 0;
+	padding:5px;
 }
 .share a,
 .share li{
