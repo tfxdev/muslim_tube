@@ -144,7 +144,7 @@ header{
 	color:#464646;
 }
 .icon{
-	background:url(../../web/images/icons.png) no-repeat 0 0;
+	background:url(../images/icons.png) no-repeat 0 0 !important;
 }
 .go,
 .icon{
